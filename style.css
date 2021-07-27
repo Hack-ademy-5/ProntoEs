@@ -103,3 +103,14 @@ body {
     border: none;
     box-shadow: 3px 3px 5px gray;
 }
+
+.card {
+    width: 200px;
+    background: linear-gradient(to right, var(--main-color), var(--color4));
+}
+
+.btn-cat {
+    background-color: var(--mainbc-color);
+    color: var(--main-color);
+    border: none;
+}
