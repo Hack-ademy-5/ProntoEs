@@ -63,9 +63,32 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    
+    align-items: center;
+
+    
+
+}
+
+.unlisted{
     list-style: none;
 
 
+
+}
+.iconosMedia{
+
+
+justify-content: space-around;
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+footer{
+    background-image: url('/images/Degital_marketing_PNG.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:top;
 }
 
 .borderLeftRight {
