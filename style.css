@@ -16,10 +16,6 @@
     color: var(--accent-color);
 }
 
-.bg-main {
-    background-color: var(--mainbc-color);
-}
-
 .color-text3 {
     color: var(--color3);
 }
@@ -30,10 +26,9 @@
 
 
 body {
-
     font-family: 'Jost', sans-serif;
+    background-color: var(--mainbc-color);
 }
-
 
 .tarjetacredito {
 
