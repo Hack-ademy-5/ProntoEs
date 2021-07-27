@@ -90,3 +90,16 @@ body {
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+.text-gradient {
+    background: linear-gradient(to right, var(--main-color), var(--color4));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.btn-head {
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    box-shadow: 3px 3px 5px gray;
+}
